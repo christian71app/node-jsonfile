@@ -1,3 +1,8 @@
+6.2.0 / 2025-08-12
+------------------
+
+- Add support for importing as ESM named imports (e.g. `import { readFileSync } from 'jsonfile'`) ([#162](https://github.com/jprichardson/node-jsonfile/pull/162))
+
 6.1.0 / 2020-10-31
 ------------------
 
