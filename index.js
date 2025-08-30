@@ -84,5 +84,6 @@ module.exports = {
   readFile,
   readFileSync,
   writeFile,
-  writeFileSync
+  writeFileSync,
+  write: writeFileSync,
 }
